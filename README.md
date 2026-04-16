@@ -3,7 +3,7 @@ Une simulation en python pour analyser la distribution statistique de la somme d
 
 ## 📝Description
 Ce projet simule 15 000 lancers de deux dés à 6 faces et calcule le pourcentage d'apparition de chaque résultat (de 2 à 12).
-il met en évidence que le chiffre **7** est le résultat le plus probable statistiquement.
+Il met en évidence que le chiffre **7** est le résultat le plus probable statistiquement.
 
 ## 🚀Comment l'utiliser
 1. Assurez-vous d'avoir Python installé.
