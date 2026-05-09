@@ -41,3 +41,4 @@ for i in range(len(list_resultat)):
     plt.text(list_resultat_des[i], list_resultat[i], str(list_resultat[i]), ha='left', va='top', bbox=dict(facecolor='white', alpha=0.5))
 
 plt.show()
+
